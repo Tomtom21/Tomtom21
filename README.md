@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomtom21
 - 👀 I’m interested in machine learning, computer vision, and other neat projects in that nature
-- 🌱 I’m currently learning the aforementioned topics
+- 🌱 I’m currently learning the aforementioned topics along with data structures and new languages
 - 💞️ I’m looking to collaborate on anything. I'm glad to try to help out.
 - 📫 How to reach me ...
 
