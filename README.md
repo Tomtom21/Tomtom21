@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Tomtom21
-- 👀 I’m interested in machine learning, computer vision, and other neat projects in that nature
-- 🌱 I’m currently learning the aforementioned topics along with data structures and new languages
-- 💞️ I’m looking to collaborate on anything. I'm glad to try to help out.
-- 📫 How to reach me ...
+Hi, I’m Tom
+- I typically enjoy working on machine learning and computer vision projects.
+- I'm currently in the process of converting some of my private repositories to public. Feel free to check back as I continue this process. More to come!
 
 <!---
 Tomtom21/Tomtom21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
